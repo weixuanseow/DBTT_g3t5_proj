@@ -1,0 +1,35 @@
+.nav1{
+    color: #efcd30;
+    font-weight: bold;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+button.navbar-toggler {
+    background-color: #efcd30;
+}
+.form-pad {
+    height: calc(3rem + 3px); 
+}
+h6{
+    color: #d3b012;
+    font-size: 1.4em;
+}
+
+#page-container {
+    position: relative;
+    min-height: 100vh;
+    background: linear-gradient(to bottom right, rgb(255, 255, 255), rgb(232, 243, 255));
+}
+
+#content-wrap {
+    padding-bottom: 2.5rem;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+    padding-left: 6rem;
+}

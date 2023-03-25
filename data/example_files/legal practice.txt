@@ -1,0 +1,301 @@
+﻿Privilege has long been recognised as
+a fundamental principle of English law.
+For several hundred years, the law of
+privilege has protected the right of clients
+to communicate with their lawyers in
+confidence, without fear that those
+communications will later be disclosed to
+third parties during the course of litigation.
+However, the modern commercial context
+has generated numerous challenges to the
+law of privilege, most notably for areas in
+which it is common practice for non-lawyers
+to advise on legal matters.
+These challenges are compounded further by
+the ubiquitous use of electronic communication
+and data storage; emails in particular are highly
+vulnerable to widespread dissemination which
+may undermine a document’s confidentiality. Even
+in circumstances where privilege has arisen, it is
+all too often lost at the click of a button, leaving
+litigants facing the prospect of disclosing sensitive
+documents to their adversaries and into the public
+domain.
+This briefing outlines the current status of
+privilege from an English law perspective, before
+addressing some common issues and scenarios
+particular to in-house counsel in which they may
+run the risk of making communications that lack
+the protection of privilege.
+The current status of privilege
+The Supreme Court delivered its judgment in
+early 2013 on the most recent case to consider
+the limited scope of the law of privilege1
+. The
+judgment serves as a cautionary tale for those
+across all industries who receive legal advice
+from non-lawyers. The case concerned tax
+advice given to Prudential plc by its external
+accountants, disclosure of which had been
+sought by the Revenue. The court ruled that
+because the advice was given by non-lawyers
+Prudential plc was not entitled to claim privilege.
+This meant that all relevant communications
+were fully disclosable, even though the advice
+was indisputably legal in nature and had it been
+given by a lawyer there would be no doubt as to
+privilege attaching.
+International
+Commerce
+June 2013
+1	 R (Prudential Plc & Anor) v Special Commissioner of Income
+Tax & Anor [2013] UKSC1.
+THE LAW OF PRIVILEGE –
+ISSUES FOR IN-HOUSE
+LEGAL
+02 International Commerce
+The Prudential case concerned
+legal advice privilege, a category of
+privilege that attaches to confidential
+communications between clients and
+their lawyers during the “ordinary
+course of [the client’s] business”. The
+Supreme Court’s ruling reinforces the
+strict rule that only communications
+between lawyers and members of
+the “client team” will benefit from the
+protection of privilege. This contrasts
+with another category of privilege,
+litigation privilege, which applies
+in circumstances in which legal
+proceedings (such as court litigation
+or arbitration) have either already
+commenced or are highly likely to do
+so. In this situation, communications
+with third parties will also be safe from
+disclosure, provided their dominant
+purpose is linked to the conduct of the
+proceedings.
+The Supreme Court’s decision further
+entrenched the “client team” concept
+which emerged from the litigation in
+the early 2000s between creditors
+of the collapsed BCCI and the Bank
+of England2
+. The Court of Appeal’s
+highly restrictive interpretation of who
+exactly constitutes the “client” for the
+purposes of obtaining legal advice
+engenders a significant risk to clients
+even in circumstances where the
+advice has been given by an external
+lawyer. Under the rule created by this
+case, only employees of the advisee
+client whose role it is to request and
+receive advice from external lawyers
+will be able to assert legal advice
+privilege over those communications.
+The meaning of “lawyer” and of “legal
+advice” has also attracted considerable
+judicial scrutiny, particularly within the
+context of in-house legal. On this issue,
+English law differs from the position in
+the majority of European jurisdictions
+as well as under EU law itself3
+,
+which considers in-house lawyers
+“insufficiently independent” from their
+employers to warrant the protection
+of privilege. However, provided that
+the communications in question
+are confidential and concern advice
+which is legal in nature (as opposed
+to, for example, strategic or purely
+commercial), and so long as the inhouse lawyer retains a valid practising
+certificate, English law will still protect
+them from disclosure to third parties.
+Once a client has obtained confidential
+advice from a lawyer over which it may
+safely assert privilege, there follows
+the enduring challenge of retaining it.
+This issue underlines the distinction
+between litigation privilege and legal
+advice privilege, namely that the
+former will attach to communications
+with non-lawyer third parties while
+the latter will not. Thus, if litigation is
+reasonably in contemplation, imminent
+or existing, and the purpose of the
+communications is predominantly
+connected to the proceedings,
+litigation privilege will protect both
+confidential advice obtained from nonlawyers and a lawyer’s advice which
+the client has then forwarded to a third
+party.
+Conversely in the case of legal advice
+privilege, the protection from disclosure
+may be lost if the client shares with a
+non-lawyer third party the confidential
+legal advice received from a lawyer.
+In these circumstances, the client
+is taken to have waived its right to
+assert privilege where the extent of
+the document’s circulation is such that
+it no longer fulfils the definition of a
+confidential communication between
+a client and its lawyer. That third party
+may even include employees of the
+same company who are not part of the
+“client team”. Clients must therefore
+exercise caution when disclosing parts
+of documents or documents that form
+part of a sequence (such as one email
+in a chain), as it will be open to the
+other parties in the litigation to force
+disclosure of the remaining document
+or documents over which the client
+will be held to have waived its right to
+privilege. This last principle applies to
+both litigation privilege and legal advice
+privilege.
+Issues for in-house legal
+1. A company is negotiating a share
+purchase agreement with the
+target’s vendors. The company’s
+external accountants advise against
+the proposed purchase due to their
+concerns about the target’s tax
+affairs. The company decides to go
+ahead with the transaction anyway.
+Within a few months of the deal
+closing, a dispute arises with the
+vendors in relation to the target’s
+tax liability. Is the accountants’
+advice disclosable? Would it make
+a difference if the objection had
+come from the company’s in-house
+legal team?
+At the time of signing the agreement,
+there was no contemplation that
+litigation would arise. Thus, there
+would be no scope in this scenario
+to assert an entitlement to litigation
+privilege. This example is precisely the
+sort of scenario that the Prudential
+decision would exclude from the scope
+of legal advice privilege. Even if the
+accountants addressed their advice
+to the in-house legal department, the
+rule in Prudential would apply and their
+advice would not attract the protection
+of privilege.
+2. Three Rivers District Council and others v The
+Governor and Company of the Bank of England
+[2003] EWCA Civ 474.
+3. Thus in circumstances where a company is
+under investigation from, for example, the EU
+competition authorities, legal advice privilege
+will not cover advice from in-house legal; see
+Akzo Nobel Chemicals Limited v European
+Commission [Case C-550/07].
+International Commerce 03
+If, however, in-house legal (being
+legally qualified and retaining a
+practising certificate) had raised the
+same objection and offered the same
+advice, then provided that the advice
+itself was confidential, legal in nature
+and confined to the negotiating team
+(insofar as they are the relevant “client
+team” in this scenario), then the
+advice would attract privilege. The
+same would be true if external lawyers
+advised on the same issues, and
+legal advice privilege would protect
+the advice from disclosure in the later
+dispute.
+2. After an earlier dispute over delayed
+delivery of a cargo consignment, a
+member of the in-house legal team
+advises a company employee over
+email on general circumstances
+in which it would be entitled to
+refuse delivery of cargo on the
+grounds of delay. The employee
+explains that they are interested in
+finding out if it is possible to reject a
+cargo in circumstances where the
+company has found a replacement
+consignment at a lower price. Is the
+email privileged?
+Emails present the law of privilege
+with a unique challenge. Preserving
+the confidentiality of emails is
+considerably more difficult than, for
+example, letters. This is due to the
+ease with which emails are circulated,
+forwarded or copied to third parties,
+frequently unknowingly or by accident.
+It is crucial for the entitlement to and
+maintenance of legal advice privilege
+that the confidential advice is restricted
+to members of the company’s “client
+team”. Circulation to third parties of
+these emails or others in the chain may
+result in the loss or waiver of privilege
+and the requirement to disclose the full
+chain of emails.
+This scenario would fail the test to
+establish litigation privilege. At the
+time it is given, in-house legal’s advice
+is generic and not within the context
+of specific, imminent litigation, thus
+litigation privilege would not attach to
+these communications.
+In the absence of litigation privilege,
+the question hinges on the identity
+of the member of the in-house legal
+team. If he or she retains a valid
+practising certificate and is subject to
+regulation by the Solicitors’ Regulation
+Authority or Bar Council4
+, provided
+the advice is confidential (which it
+clearly is) and legal in nature (again,
+this seems certain here), then legal
+advice privilege will attach to the email
+communications.
+3. A company’s in-house legal team
+appoints an external law firm
+to advise on a dispute with an
+employee. The firm suggests the
+merits are 50:50 and recommends
+settlement. The relevant member
+of the in-house legal team forwards
+this advice to the head of HR
+without copying in the firm, who
+in turn forwards it to the head
+of the department concerned
+and the relevant employee’s line
+manager. The line manager again
+forwards the advice to the entire
+management team of the project
+on which the employee has been
+working. Both in-house legal
+and the HR manager add some
+comments of their own about the
+merits of the claim. Are the emails
+privileged? Is the law firm’s advice
+still privileged?
+Where an external lawyer advises on
+the merits of a claim, certainly litigation
+privilege will apply. The forwarded
+advice would remain privileged, subject
+to any subsequent loss or waiver.
+Let us imagine, however, that the
+advice was more generic (in respect of
+the company’s redundancy procedure,
+for example) and that litigation privilege
+did not apply. The possibility of legal
+advice privilege attaching will depend
+on the identity of the in-hous
