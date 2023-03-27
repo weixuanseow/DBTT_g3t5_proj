@@ -1,6 +1,6 @@
 # DBTT_g3t5_proj
 
-Make a clone of the repository, then run Flask on your terminal for the features of the website to work
+Make a clone of this repository, then access <your path>/DBTT_g3t5_proj/processing_files and run Flask on your terminal for the features of the website to work
 
 
 For Twilio to work, create a Twilio account on https://www.twilio.com/try-twilio.
